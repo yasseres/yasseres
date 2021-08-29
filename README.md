@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @yasseres
+- 👀 I’m interested in python / Azure / AI
+- 🌱 I’m currently learning python / Azure / AI
+- 💞️ I’m looking to collaborate on python / Azure / AI
+- 📫 How to reach me no need
